@@ -18,21 +18,18 @@ Islamabad, Pakistan • Bahria University (2024–2028)
 
 ---
 
-### AI & Digital Media Specialist | Student
 
-Building intelligent systems, automation,
-software, and innovative projects.
+##  📌 About Me
 
-📍 Islamabad, Pakistan
+I am an engineering student pursuing a **BS in Robotics & Intelligent Systems at Bahria University Islamabad (2024–2028)**, with a strong interest in artificial intelligence, robotics, software development, and intelligent automation.
 
----
+I enjoy exploring how technology can solve real-world problems through smart systems, creative problem-solving, and practical engineering applications. My learning journey focuses on understanding the fundamentals of intelligent technologies while developing practical skills through hands-on projects and continuous experimentation.
 
-## About Me
+Academic Interests: Robotics, embedded systems, intelligent control, and engineering mathematics.
 
-- 🎓 University Student
-- 💻 Interested in Programming
-- 🤖 Exploring AI & Robotics
-- 🚀 Learning new technologies
+Technical Interests: Artificial intelligence, machine learning, neural networks, software development, and automation.
+
+Learning Approach: Hands-on experimentation, problem-solving, continuous learning, and building practical projects.
 
 ## My Skills
 
