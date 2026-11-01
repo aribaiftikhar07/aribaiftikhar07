@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Your Name 👋
 
-<!--
-**aribaiftikhar07/aribaiftikhar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Digital Media Specialist | Student
 
-Here are some ideas to get you started:
+Building intelligent systems, automation,
+software, and innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Islamabad, Pakistan
+
+---
+
+## About Me
+
+- 🎓 University Student
+- 💻 Interested in Programming
+- 🤖 Exploring AI & Robotics
+- 🚀 Learning new technologies
+
+## My Skills
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## Connect With Me
+
+[LinkedIn](https://linkedin.com/)
+
+[Portfolio](https://example.com/)
+
+[GitHub](https://github.com/)
