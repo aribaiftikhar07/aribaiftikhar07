@@ -2,8 +2,8 @@
 
 # Ariba Iftikhar
 
-**AI & Digital Media Specialist | Robotics & Intelligent Systems Student**  
-*Building intelligent systems, automation pipelines, cross-platform software, and autonomous robotics.*
+**AI & Digital Media Specialist | Technology Enthusiast**  
+*Building creative digital experiences, intelligent systems, and innovative solutions.*
 
 Islamabad, Pakistan • Bahria University (2024–2028)
 
